@@ -1,0 +1,14 @@
+nav{
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+}
+nav a{
+    color: white;
+    text-decoration:none ;
+    margin: 15px;
+    float: left;
+}
+a:hover{
+    color: salmon;
+}
